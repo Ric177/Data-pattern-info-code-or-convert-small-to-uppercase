@@ -1,0 +1,1 @@
+# Data-pattern-info-code-or-convert-small-to-uppercase
